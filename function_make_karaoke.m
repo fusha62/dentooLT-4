@@ -7,3 +7,4 @@
 function bgm = function_make_karaoke(data)
 %% Karaoke making !!
 bgm=data-circshift(data,[0,1]);
+end
