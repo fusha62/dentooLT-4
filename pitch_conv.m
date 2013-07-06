@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%    Function of Pitch convert      %%%%%
+%%%%%     Script of Pitch convert       %%%%%
 %%%%%                   for Dentoo LT 4 %%%%%
 %%%%%            written by T.Minagawa  %%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
